@@ -1,0 +1,638 @@
+Package Name                          Version                              Info
+ant                                   1.10.5-2                             Java based build tool like make                                      
+ant-contrib                           1.0~b3+svn177-10                     collection of tasks, types and other tools for Apache Ant            
+ant-optional                          1.10.5-2                             Java based build tool like make - optional libraries                 
+apparmor:armhf                        2.13.2-10                            user-space parser utility for AppArmor                               
+bluej                                 4.2.1                                A simple but powerful Java IDE.                                      
+ca-certificates-java                  20190405                             Common CA certificates (JKS keystore)                                
+claws-mail-i18n                       3.17.3-2                             Locale data for Claws Mail (i18n support)                            
+claws-mail:armhf                      3.17.3-2                             Fast, lightweight and user-friendly GTK+2 based email client         
+code-the-classics                     0.3                                  Python games to accompany Code the Classics Volume 1 book            
+coinor-libcbc3:armhf                  2.9.9+repack1-1                      Coin-or branch-and-cut mixed integer programming solver (shared libra
+coinor-libcgl1:armhf                  0.59.10+repack1-1                    COIN-OR Cut Generation Library                                       
+coinor-libclp1:armhf                  1.16.11+repack1-1                    Coin-or linear programming solver (shared libraries)                 
+coinor-libcoinmp1v5:armhf             1.8.3-2                              Simple C API for COIN-OR Solvers Clp and Cbc -- library              
+coinor-libcoinutils3v5:armhf          2.10.14+repack1-1                    Coin-or collection of utility classes (binaries and libraries)       
+coinor-libosi1v5:armhf                0.107.9+repack1-1                    COIN-OR Open Solver Interface                                        
+firebird3.0-common                    3.0.5.33100.ds4-2                    common files for firebird 3.0 server, client and utilities           
+firebird3.0-common-doc                3.0.5.33100.ds4-2                    copyright, licensing and changelogs of firebird3.0                   
+firebird3.0-server-core:armhf         3.0.5.33100.ds4-2                    Firebird engine core                                                 
+firebird3.0-utils:armhf               3.0.5.33100.ds4-2                    Firebird command line utilities                                      
+firmware-microbit-micropython         1.0.1-1                              MicroPython runtime for the BBC micro:bit                            
+fonts-crosextra-caladea               20130214-2                           Serif font metric-compatible with the Cambria font                   
+fonts-crosextra-carlito               20130920-1                           Sans-serif font metric-compatible with Calibri font                  
+fonts-dejavu                          2.37-1                               metapackage to pull in fonts-dejavu-core and fonts-dejavu-extra      
+fonts-dejavu-extra                    2.37-1                               Vera font family derivate with additional characters (extra variants)
+fonts-inconsolata                     001.010-5                            monospace font for pretty code listings and for the terminal         
+fonts-lato                            2.0-2                                sans-serif typeface family font                                      
+fonts-liberation                      1:1.07.4-9                           Fonts with the same metrics as Times, Arial and Courier              
+fonts-linuxlibertine                  5.3.0-4                              Linux Libertine family of fonts                                      
+fonts-lyx                             2.3.2-1                              TrueType versions of some TeX fonts used by LyX                      
+fonts-noto-core                       20181227-1                           "No Tofu" font families with large Unicode coverage (core)           
+fonts-noto-ui-core                    20181227-1                           "No Tofu" font families with large Unicode coverage (UI core)        
+fonts-opensymbol                      2:102.10+LibO6.1.5-3+rpi1+deb10u7+rptOpenSymbol TrueType font                                             
+fonts-sil-gentium                     20081126:1.03-2                      extended Unicode Latin font ("a typeface for the nations")           
+fonts-sil-gentium-basic               1.102-1                              smart Unicode font families (Basic and Book Basic) based on Gentium  
+greenfoot-unbundled                   3.6.0                                A simple but powerful Java IDE.                                      
+gstreamer1.0-gtk3:armhf               1.14.4-1+rpt1+deb10u1                GStreamer plugin for GTK+3                                           
+gyp                                   0.1+20180428git4d467626-3            Cross-platform build script generator                                
+jackd                                 5+nmu1                               JACK Audio Connection Kit (default server package)                   
+jackd2:armhf                          1.9.12~dfsg-2                        JACK Audio Connection Kit (server and example clients)               
+java-common                           0.71                                 Base package for Java runtimes                                       
+libabw-0.1-1:armhf                    0.1.2-1                              library for reading and writing AbiWord(tm) documents                
+libactivation-java                    1.2.0-2                              JavaBeans Activation Framework                                       
+libaopalliance-java                   20070526-6                           library for interoperability for Java AOP implementations            
+libapache-poi-java                    4.0.1-1                              Apache POI - Java API for Microsoft Documents                        
+libapache-pom-java                    18-1                                 Maven metadata for all Apache Software projects                      
+libargs4j-java                        2.33-1                               Java command line arguments parser                                   
+libasm-java                           7.0-1                                Java bytecode manipulation framework                                 
+libatinject-jsr330-api-java           1.0+ds1-5                            Java API for JSR-330 Dependency Injection                            
+libatk-wrapper-java                   0.33.3-22                            ATK implementation for Java using JNI                                
+libatk-wrapper-java-jni:armhf         0.33.3-22                            ATK implementation for Java using JNI (JNI bindings)                 
+libaubio5:armhf                       0.4.6-2+b1                           library for audio segmentation                                       
+libbase-java                          1.1.6-2                              A general purpose base service library (OOo 3.1 branch)              
+libbcmail-java                        1.60-1                               Bouncy Castle generators/processors for S/MIME and CMS               
+libbcpkix-java                        1.60-1                               Bouncy Castle Java API for PKIX, CMS, EAC, TSP, PKCS, OCSP, CMP, and 
+libbcprov-java                        1.60-1                               Bouncy Castle Java Cryptographic Service Provider                    
+libboost-chrono1.67.0:armhf           1.67.0-13+deb10u1                    C++ representation of time duration, time point, and clocks          
+libboost-date-time1.67.0:armhf        1.67.0-13+deb10u1                    set of date-time libraries based on generic programming concepts     
+libboost-filesystem1.67.0:armhf       1.67.0-13+deb10u1                    filesystem operations (portable paths, iteration over directories, et
+libboost-locale1.67.0:armhf           1.67.0-13+deb10u1                    C++ facilities for localization                                      
+libbsh-java                           2.0b4-19                             Java scripting environment (BeanShell) Version 2 (library)           
+libc-ares2:armhf                      1.14.0-1                             asynchronous name resolver                                           
+libcdi-api-java                       1.2-2                                Contexts and Dependency Injection for Java EE                        
+libcdr-0.1-1:armhf                    0.1.5-1                              library for reading and converting Corel DRAW files                  
+libcglib-java                         3.2.10-1                             Code generation library for Java                                     
+libclucene-contribs1v5:armhf          2.3.3.4+dfsg-1                       language specific text analyzers (runtime)                           
+libclucene-core1v5:armhf              2.3.3.4+dfsg-1                       core library for full-featured text search engine (runtime)          
+libcmis-0.5-5v5:armhf                 0.5.2-1                              CMIS protocol client library                                         
+libcodemodel-java                     2.6+jaxb2.3.0.1-8                    Java library for code generators                                     
+libcolamd2:armhf                      1:5.4.0+dfsg-1                       column approximate minimum degree ordering library for sparse matrice
+libcommons-cli-java                   1.4-1                                Command line arguments and options parsing library                   
+libcommons-codec-java                 1.11-1                               encoder and decoders such as Base64 and hexadecimal codec            
+libcommons-collections3-java          3.2.2-2                              Apache Commons Collections - Extended Collections API for Java       
+libcommons-collections4-java          4.2-1                                Apache Commons Collections - Extended Collections API for Java       
+libcommons-compress-java              1.18-2+deb10u1                       Java API for working with compression and archive formats            
+libcommons-io-java                    2.6-2                                Common useful IO related classes                                     
+libcommons-lang3-java                 3.8-2                                Apache Commons Lang utility classes                                  
+libcommons-logging-java               1.2-2                                common wrapper interface for several logging APIs                    
+libcommons-math3-java                 3.6.1-3                              Java lightweight mathematics and statistics components               
+libcommons-parent-java                43-1                                 Maven metadata for Apache Commons project                            
+libcompfaceg1:armhf                   1:1.5.2-5                            Compress/decompress images for mailheaders, libc6 runtime            
+libcurvesapi-java                     1.05-1                               Java implementation of mathematical curves defined over a set of cont
+libdom4j-java                         2.1.1-2                              Flexible XML framework for Java                                      
+libdtd-parser-java                    1.2~svn20110404-1                    Java library for parsing XML DTDs                                    
+libe-book-0.1-1:armhf                 0.1.3-1+b2                           library for reading and converting various  e-book formats           
+libehcache-java                       2.6.11-3                             distributed cache library                                            
+libel-api-java                        3.0.0-2+deb10u1                      Expression Language API                                              
+libeot0:armhf                         0.01-5                               Library for parsing/converting Embedded OpenType files               
+libepubgen-0.1-1:armhf                0.1.1-1                              EPUB generator library                                               
+libetonyek-0.1-1:armhf                0.1.9-1                              library for reading and converting Apple Keynote presentations       
+libetpan20:armhf                      1.9.3-2                              mail handling library                                                
+libexttextcat-2.0-0:armhf             3.4.5-1                              Language detection library                                           
+libexttextcat-data                    3.4.5-1                              Language detection library - data files                              
+libfastinfoset-java                   1.2.12-3                             Java library implementing the Fast Infoset standard                  
+libfbclient2:armhf                    3.0.5.33100.ds4-2                    Firebird client library                                              
+libflute-java                         1:1.1.6-4                            Java CSS parser using SAC (JFree version)                            
+libfonts-java                         1.1.6.dfsg-3                         Java fonts layouting library                                         
+libformula-java                       1.1.7.dfsg-2                         Excel(tm) style formula expressions library                          
+libfreehand-0.1-1:armhf               0.1.2-2                              Library for parsing the FreeHand file format structure               
+libgeronimo-annotation-1.3-spec-java  1.0-1                                Apache Geronimo Common Annotations 1.3 API                           
+libgeronimo-interceptor-3.0-spec-java 1.0.1-4                              Geronimo API implementation of the Interceptor 3.0 spec              
+libgit2-27:armhf                      0.27.7+dfsg.1-0.2                    low-level Git library                                                
+libglu1-mesa:armhf                    9.0.0-2.1                            Mesa OpenGL utility library (GLU)                                    
+libgpgme11:armhf                      1.12.0-6                             GPGME - GnuPG Made Easy (library)                                    
+libgpgmepp6:armhf                     1.12.0-6                             C++ wrapper library for GPGME                                        
+libguava-java                         19.0-1                               Suite of Google common libraries for Java                            
+libguice-java                         4.2.1-1                              lightweight dependency injection framework for Java 5 and above      
+libhawtjni-runtime-java               1.16-1                               Java library that provide JNI code generation                        
+libhsqldb1.8.0-java                   1.8.0.10+dfsg-10                     Java SQL database engine                                             
+libhttp-parser2.8:armhf               2.8.1-1                              parser for HTTP messages written in C                                
+libhttpclient-java                    4.5.7-1+deb10u1                      HTTP/1.1 compliant HTTP agent implementation                         
+libhttpcore-java                      4.4.11-1                             set of low level HTTP transport components for Java                  
+libib-util:armhf                      3.0.5.33100.ds4-2                    Firebird UDF support library                                         
+libice-dev:armhf                      2:1.0.9-2                            X11 Inter-Client Exchange library (development headers)              
+libicu4j-java                         62.1-2                               Library for Unicode support and internationalization                 
+libintellij-annotations-java          17.0.0-1                             transitional package for libjetbrains-annotations-java               
+libistack-commons-java                3.0.6-3                              Common code for some Glassfish projects                              
+libitext-java                         2.1.7-12                             Java Library to create and manipulate PDF on the fly                 
+libjansi-java                         1.17.1-1                             Java library for generating and interpreting ANSI escape sequences   
+libjansi-native-java                  1.8-1                                Java library for ANSI escape sequences - native component            
+libjaxb-api-java                      2.3.1-1                              Java Architecture for XML Binding API                                
+libjaxb-java                          2.3.0.1-8                            JAXB Reference Implementation                                        
+libjaxen-java                         1.1.6-4                              Java XPath engine                                                    
+libjcommon-java                       1.0.23-1                             General Purpose library for Java                                     
+libjdom1-java                         1.1.3-2                              lightweight and fast library using XML                               
+libjetbrains-annotations-java         17.0.0-1                             annotations used for code inspection support and code documentation  
+libjs-inherits                        2.0.3-1                              Exposes inherits function from Node.js environment                   
+libjs-is-typedarray                   1.0.0-2                              JavaScript library checking if object is TypedArray                  
+libjs-jquery-ui                       1.12.1+dfsg-5                        JavaScript UI library for dynamic web applications                   
+libjsoup-java                         1.10.2-2                             Java HTML parser that makes sense of real-world HTML soup            
+libjsp-api-java                       2.3.4-2+deb10u1                      JavaServer Pages API                                                 
+libjsr305-java                        0.1~+svn49-11                        Java library that provides annotations for software defect detection 
+liblangtag-common                     0.6.2-1                              library to access tags for identifying languages -- data             
+liblangtag1:armhf                     0.6.2-1                              library to access tags for identifying languages                     
+liblayout-java                        0.2.10-3                             Java layouting framework                                             
+libloader-java                        1.1.6.dfsg-4                         Java general purpose resource loading framework                      
+liblockfile-bin:armhf                 1.14-1.1                             support binaries for and cli utilities based on liblockfile          
+liblockfile1:armhf                    1.14-1.1                             NFS-safe locking library                                             
+liblog4j1.2-java                      1.2.17-8+deb10u1                     Logging library for java                                             
+libmail-java                          1.6.2-1                              JavaMail API Reference Implementation                                
+libmaven-file-management-java         3.0.0-1                              Maven File Management API                                            
+libmaven-parent-java                  31-2                                 Maven metadata for Apache Maven itself                               
+libmaven-resolver-java                1.3.1-1                              Library to handle Java artifact repositories                         
+libmaven-shared-io-java               3.0.0-3                              Maven API for I/O support                                            
+libmaven-shared-utils-java            3.3.0-1                              Replacement for plexus-utils in Maven                                
+libmaven3-core-java                   3.6.0-1                              Core libraries for Maven 3                                           
+libmbedcrypto3:armhf                  2.16.0-1                             lightweight crypto and SSL/TLS library - crypto library              
+libmbedtls12:armhf                    2.16.0-1                             lightweight crypto and SSL/TLS library - tls library                 
+libmbedx509-0:armhf                   2.16.0-1                             lightweight crypto and SSL/TLS library - x509 certificate library    
+libmhash2:armhf                       0.9.9.9-7                            Library for cryptographic hashing and message authentication         
+libmspub-0.1-1:armhf                  0.1.4-1+b2                           library for parsing the mspub file structure                         
+libmwaw-0.3-3:armhf                   0.3.14-1                             import library for some old Mac text documents                       
+libmythes-1.2-0:armhf                 2:1.2.4-3                            simple thesaurus library                                             
+libneon27-gnutls:armhf                0.30.2-3                             HTTP and WebDAV client library (GnuTLS enabled)                      
+libnode-dev:armhf                     10.24.0~dfsg-1~deb10u1               evented I/O for V8 javascript (development files)                    
+libnode64:armhf                       10.24.0~dfsg-1~deb10u1               evented I/O for V8 javascript - runtime library                      
+libnumbertext-1.0-0:armhf             1.0.5-1                              Number to number name and money text conversion library              
+libnumbertext-data                    1.0.5-1                              Number to number name and money text conversion library -- data files
+libodfgen-0.1-1:armhf                 0.1.7-1                              library to generate ODF documents                                    
+libopenjfx-java                       11.0.2+1-1                           JavaFX/OpenJFX - Rich client application platform for Java (Java libr
+libopenjfx-jni:armhf                  11.0.2+1-1                           JavaFX/OpenJFX - Rich client application platform for Java (native li
+liborcus-0.14-0:armhf                 0.14.1-6                             library for processing spreadsheet documents                         
+libpagemaker-0.0-0:armhf              0.0.4-1                              Library for importing and converting PageMaker Documents             
+libpentaho-reporting-flow-engine-java 0.9.4-5                              report library for java                                              
+libpixie-java                         1:1.1.6-3                            Java Vector Format Viewer Library                                    
+libplexus-archiver-java               3.6.0-2                              Archiver plugin for the Plexus compiler system                       
+libplexus-cipher-java                 1.7-3                                Plexus Cipher Component used by Maven                                
+libplexus-classworlds-java            2.6.0-1                              Class loading utilities for the Plexus framework                     
+libplexus-component-annotations-java  1.7.1-7                              Plexus Component Annotations                                         
+libplexus-interpolation-java          1.25-1                               Plexus Interpolation API                                             
+libplexus-io-java                     3.1.1-1                              Plexus IO Components                                                 
+libplexus-sec-dispatcher-java         1.4-4                                Plexus Security Dispatcher Component used by Maven                   
+libplexus-utils2-java                 3.1.1-1                              utilities for the Plexus framework                                   
+libpng12-0:armhf                      1.2.54-6                             PNG library - runtime                                                
+libpq5:armhf                          11.11-0+deb10u1                      PostgreSQL C client library                                          
+libpthread-stubs0-dev:armhf           0.4-1                                pthread stubs not provided by native libc, development files         
+libqscintilla2-qt5-13:armhf           2.10.4+dfsg-2.1+rpi1                 Qt5 port of the Scintilla source code editing widget                 
+libqscintilla2-qt5-l10n               2.10.4+dfsg-2.1+rpi1                 Scintilla source code editing widget for Qt5, translation files      
+libqt5charts5:armhf                   5.11.3-2                             Qt charts shared library                                             
+libqt5designer5:armhf                 5.11.3-4                             Qt 5 designer module                                                 
+libqt5help5:armhf                     5.11.3-4                             Qt 5 help module                                                     
+libqt5opengl5:armhf                   5.11.3+dfsg1-1+rpi1+deb10u4          Qt 5 OpenGL module                                                   
+libqt5serialport5:armhf               5.11.3-2                             Qt 5 serial port support                                             
+libqt5test5:armhf                     5.11.3+dfsg1-1+rpi1+deb10u4          Qt 5 test module                                                     
+libqwt-qt5-6:armhf                    6.1.4-1                              Qt widgets library for technical applications (runtime, qt5)         
+libqxp-0.0-0:armhf                    0.0.2-1                              library for reading and converting QuarkXPress files                 
+libraptor2-0:armhf                    2.0.14-1.1~deb10u1                   Raptor 2 RDF syntax library                                          
+librasqal3:armhf                      0.9.32-1                             Rasqal RDF query library                                             
+librdf0:armhf                         1.0.17-1.1+b1                        Redland Resource Description Framework (RDF) library                 
+librelaxng-datatype-java              1.0+ds1-3                            Java datatype interface for RELAX NG                                 
+libreoffice-avmedia-backend-gstreamer:1:6.1.5-3+rpi1+deb10u7+rpt1          GStreamer backend for LibreOffice                                    
+libreoffice-base-core:armhf           1:6.1.5-3+rpi1+deb10u7+rpt1          office productivity suite -- shared library                          
+libreoffice-base-drivers:armhf        1:6.1.5-3+rpi1+deb10u7+rpt1          Database connectivity drivers for LibreOffice                        
+libreoffice-base:armhf                1:6.1.5-3+rpi1+deb10u7+rpt1          office productivity suite -- database                                
+libreoffice-calc:armhf                1:6.1.5-3+rpi1+deb10u7+rpt1          office productivity suite -- spreadsheet                             
+libreoffice-common                    1:6.1.5-3+rpi1+deb10u7+rpt1          office productivity suite -- arch-independent files                  
+libreoffice-core:armhf                1:6.1.5-3+rpi1+deb10u7+rpt1          office productivity suite -- arch-dependent files                    
+libreoffice-draw:armhf                1:6.1.5-3+rpi1+deb10u7+rpt1          office productivity suite -- drawing                                 
+libreoffice-gtk3:armhf                1:6.1.5-3+rpi1+deb10u7+rpt1          office productivity suite -- GTK+ 3 integration                      
+libreoffice-help-common               1:6.1.5-3+rpi1+deb10u7+rpt1          office productivity suite -- common files for LibreOffice help       
+libreoffice-help-en-gb                1:6.1.5-3+rpi1+deb10u7+rpt1          office productivity suite -- English_british help                    
+libreoffice-impress:armhf             1:6.1.5-3+rpi1+deb10u7+rpt1          office productivity suite -- presentation                            
+libreoffice-java-common               1:6.1.5-3+rpi1+deb10u7+rpt1          office productivity suite -- arch-independent Java support files     
+libreoffice-l10n-en-gb                1:6.1.5-3+rpi1+deb10u7+rpt1          office productivity suite -- English_british language package        
+libreoffice-librelogo                 1:6.1.5-3+rpi1+deb10u7+rpt1          Logo-like progamming language for LibreOffice                        
+libreoffice-math:armhf                1:6.1.5-3+rpi1+deb10u7+rpt1          office productivity suite -- equation editor                         
+libreoffice-nlpsolver                 0.9+LibO6.1.5-3+rpi1+deb10u7+rpt1    "Solver for Nonlinear Programming" extension for LibreOffice         
+libreoffice-pi                        1:6.1.5-3+rpi1                       LibreOffice with the GTK theme                                       
+libreoffice-report-builder            1:6.1.5-3+rpi1+deb10u7+rpt1          LibreOffice component for building database reports                  
+libreoffice-report-builder-bin:armhf  1:6.1.5-3+rpi1+deb10u7+rpt1          LibreOffice component for building database reports -- libraries     
+libreoffice-script-provider-bsh       1:6.1.5-3+rpi1+deb10u7+rpt1          BeanShell script support provider for LibreOffice scripting framework
+libreoffice-script-provider-js        1:6.1.5-3+rpi1+deb10u7+rpt1          JavaScript script support provider for LibreOffice scripting framewor
+libreoffice-script-provider-python    1:6.1.5-3+rpi1+deb10u7+rpt1          Python script support provider for LibreOffice scripting framework   
+libreoffice-sdbc-firebird:armhf       1:6.1.5-3+rpi1+deb10u7+rpt1          Firebird SDBC driver for LibreOffice                                 
+libreoffice-sdbc-hsqldb:armhf         1:6.1.5-3+rpi1+deb10u7+rpt1          HSQLDB SDBC driver for LibreOffice                                   
+libreoffice-sdbc-postgresql:armhf     1:6.1.5-3+rpi1+deb10u7+rpt1          PostgreSQL SDBC driver for LibreOffice                               
+libreoffice-style-colibre             1:6.1.5-3+rpi1+deb10u7+rpt1          office productivity suite -- colibre symbol style                    
+libreoffice-style-tango               1:6.1.5-3+rpi1+deb10u7+rpt1          office productivity suite -- Tango symbol style                      
+libreoffice-wiki-publisher            1.2.0+LibO6.1.5-3+rpi1+deb10u7+rpt1  LibreOffice extension for working with MediaWiki articles            
+libreoffice-writer:armhf              1:6.1.5-3+rpi1+deb10u7+rpt1          office productivity suite -- word processor                          
+libreoffice:armhf                     1:6.1.5-3+rpi1+deb10u7+rpt1          office productivity suite (metapackage)                              
+librepository-java                    1.1.6-3                              abstraction library for accessing hierachic bulk content             
+librevenge-0.0-0:armhf                0.0.4-6                              Base Library for writing document interface filters                  
+librngom-java                         2.3.0.1-8                            Java library for parsing RELAX NG grammars                           
+librtaudio6:armhf                     5.0.0~ds-3                           C++ library for realtime audio input/ouput                           
+librtmidi4:armhf                      3.0.0~ds1-2+b1                       C++ library for realtime MIDI input/ouput                            
+libruby2.5:armhf                      2.5.5-3+deb10u3                      Libraries necessary to run Ruby 2.5                                  
+libsac-java                           1.3+dfsg-5                           Simple API for CSS Java library                                      
+libsaxonhe-java                       9.9.0.2+dfsg-1                       Saxon-HE is the XSLT and XQuery Processor                            
+libscsynth1:armhf                     1:3.10.0+repack-1+rpi1               SuperCollider synthesis server library                               
+libserializer-java                    1.1.6-5                              general serializaton framework                                       
+libservlet-api-java                   4.0.1-2                              Java Servlet API                                                     
+libservlet3.1-java                    1:4.0.1-2                            Java Servlet API 3.1 (transitional package)                          
+libsisu-guice-java                    4.2.0-1                              Patched build of Google Guice for Sisu-IoC                           
+libsisu-inject-java                   0.3.3-1                              Dependency Injection container for Java                              
+libsisu-ioc-java                      2.3.0-11                             JSR 330 container and OSGi/Plexus adapter                            
+libsisu-plexus-java                   0.3.3-3                              Plexus adapter for the Sisu dependency injection container           
+libslf4j-java                         1.7.25-3                             Simple Logging Facade for Java                                       
+libsm-dev:armhf                       2:1.2.3-1                            X11 Session Management library (development headers)                 
+libsnappy-java                        1.1.7.2-1                            Snappy for Java, a fast compressor/decompresser                      
+libsnappy-jni:armhf                   1.1.7.2-1                            Snappy for Java, a fast compressor/decompresser (JNI library)        
+libssl-dev:armhf                      1.1.1d-0+deb10u6+rpt1                Secure Sockets Layer toolkit - development files                     
+libstaroffice-0.0-0:armhf             0.0.6-1                              Import filter library to import all StarOffice documents             
+libstax-ex-java                       1.7.8-3                              Extended StAX API                                                    
+libstk-4.5.0:armhf                    4.5.2+dfsg-5+b2                      Sound Synthesis Toolkit                                              
+libstreambuffer-java                  1.5.4-1                              XML Stream Buffer                                                    
+libsuitesparseconfig5:armhf           1:5.4.0+dfsg-1                       configuration routines for all SuiteSparse modules                   
+libtommath1:armhf                     1.1.0-3                              multiple-precision integer library [runtime]                         
+libtxw2-java                          2.3.0.1-8                            Typed XML Writer for Java                                            
+libuv1-dev:armhf                      1.24.1-1                             asynchronous event notification library - development files          
+libuv1:armhf                          1.24.1-1                             asynchronous event notification library - runtime library            
+libvisio-0.1-1:armhf                  0.1.6-1+b3                           library for parsing the visio file structure                         
+libwagon-http-java                    3.3.1-2                              Artifact transport abstraction used in Maven (HTTP providers)        
+libwagon-provider-api-java            3.3.1-2                              Artifact transport abstraction used in Maven (Provider API)          
+libwebsocket-api-java                 1.1-1+deb10u1                        Java WebSocket API                                                   
+libwpd-0.10-10:armhf                  0.10.3-1                             Library for handling WordPerfect documents (shared library)          
+libwpg-0.3-3:armhf                    0.3.3-1                              WordPerfect graphics import/convert library (shared library)         
+libwps-0.4-4:armhf                    0.4.10-1                             Works text file format import filter library (shared library)        
+libx11-dev:armhf                      2:1.6.7-1+deb10u1                    X11 client-side library (development headers)                        
+libxau-dev:armhf                      1:1.0.8-1+b2                         X11 authorisation library (development headers)                      
+libxcb1-dev:armhf                     1.13.1-2                             X C Binding, development files                                       
+libxdmcp-dev:armhf                    1:1.1.2-3                            X11 authorisation library (development headers)                      
+libxerces2-java                       2.12.0-1                             Validating XML parser for Java with DOM level 3 support              
+libxml-commons-external-java          1.4.01-3                             XML Commons external code - DOM, SAX, and JAXP, etc                  
+libxml-commons-resolver1.1-java       1.2-9                                XML entity and URI resolver library                                  
+libxml-java                           1.1.6.dfsg-3                         namespace aware SAX-Parser utility library                           
+libxmlbeans-java                      3.0.2-1                              Java library for accessing XML by binding it to Java types           
+libxmlsec1-nss:armhf                  1.2.27-2                             Nss engine for the XML security library                              
+libxmlsec1:armhf                      1.2.27-2                             XML security library                                                 
+libxom-java                           1.2.10-1                             New XML object model for Java                                        
+libxsom-java                          2.3.0.1-8                            XML Schema Object Model Java library                                 
+libxt-dev:armhf                       1:1.1.5-1+b3                         X11 toolkit intrinsics library (development headers)                 
+libxz-java                            1.8-2                                Java library with a complete implementation of XZ data compression   
+libyajl2:armhf                        2.1.0-3                              Yet Another JSON Library                                             
+libzmf-0.0-0:armhf                    0.0.2-1+b2                           Zoner Draw/Zebra file reading/converting library                     
+lp-solve:armhf                        5.5.0.15-4                           Solve (mixed integer) linear programming problems                    
+minecraft-pi:armhf                    0.1.1-6                              Minecraft for the Raspberry Pi                                       
+mu-editor                             1.0.2+dfsg-3                         simple editor for beginner Python programmers                        
+node-abbrev                           1.1.1-1                              Get unique abbreviations for a set of strings - Node.js module       
+node-ajv                              5.0.0-1                              another JSON Schema Validator                                        
+node-ansi                             0.3.0-3                              Advanced ANSI formatting tool for Node.js                            
+node-ansi-align                       2.0.0-1                              align-text with ANSI support for CLIs                                
+node-ansi-regex                       3.0.0-1                              regular expression for matching ANSI escape codes                    
+node-ansi-styles                      3.2.1-1                              ANSI escape codes for styling strings in the terminal with Node.js   
+node-ansistyles                       0.1.3-1                              prints output in different styles                                    
+node-aproba                           1.2.0-1                              light-weight argument validator                                      
+node-archy                            1.0.0-2                              Pretty-print nested hierarchies module for Node.js                   
+node-are-we-there-yet                 1.1.4-1                              Keep track of the overall completion of many disparate processes     
+node-asn1                             0.2.3-1                              ASN.1 encoder and decoder (BER)                                      
+node-assert-plus                      1.0.0-1                              small wrapper over nodejs' assert module with two extra features     
+node-asynckit                         0.4.0-2                              Minimal async jobs utility library, with streams support             
+node-aws-sign2                        0.7.1-1                              AWS signing in JavaScript                                            
+node-aws4                             1.8.0-1                              Signs and prepares requests using AWS Signature Version 4            
+node-balanced-match                   0.4.2-1                              Match balanced character pairs in Node.js                            
+node-bcrypt-pbkdf                     1.0.1-1                              Port of the OpenBSD bcrypt_pbkdf function to pure JS                 
+node-bluebird                         3.5.1+dfsg2-2                        Fully featured Promises/A+ implementation for Node.js                
+node-boxen                            1.2.2-1                              Create boxes in the terminal                                         
+node-brace-expansion                  1.1.8-1                              Brace expansion as known from sh/bash for Node.js                    
+node-builtin-modules                  3.0.0-1                              List of the Node.js builtin modules                                  
+node-builtins                         1.0.3-1                              lists nodejs builtin modules                                         
+node-cacache                          11.3.2-2                             fast, fault-tolerant, disk-based, data-agnostic, content-addressable 
+node-call-limit                       1.1.0-1                              Limit the number of simultaneous calls to an async function          
+node-camelcase                        5.0.0-1                              Convert a string to camelCase                                        
+node-caseless                         0.12.0-1                             get/set/check for HTTP headers in a caseless manner                  
+node-chalk                            2.3.0-2                              Terminal string styling for Node.js                                  
+node-chownr                           1.1.1-1                              like chown -R                                                        
+node-cli-boxes                        1.0.0-1                              Boxes for use in the terminal                                        
+node-cliui                            4.1.0-1                              easily create complex multi-column CLIs                              
+node-clone                            2.1.2-1                              deep cloning of objects and arrays                                   
+node-co                               4.6.0-1                              generator async control flow goodness                                
+node-color-convert                    1.9.0-3                              Plain color conversion functions                                     
+node-color-name                       1.1.3-1                              list of color names and its values                                   
+node-combined-stream                  1.0.7-1                              Append streams one after another - module for Node.js                
+node-concat-map                       0.0.1-1                              concatenative mapdashery for Node.js                                 
+node-concat-stream                    1.6.2-1                              writable stream that concatenates strings                            
+node-config-chain                     1.1.11-1                             Handle Configuration Once And For All                                
+node-console-control-strings          1.1.0-1                              cross-platform tested terminal/console command strings               
+node-copy-concurrently                1.0.5-4                              Copy files, directories and symlinks concurrently                    
+node-core-util-is                     1.0.2-1                              util.is* functions introduced in Node v0.12 for older versions       
+node-cross-spawn                      5.1.0-2                              Cross platform drop-in replacement for spawn                         
+node-cyclist                          1.0.1-2                              efficient cyclic list implementation for Javascript                  
+node-dashdash                         1.14.1-2                             light, featureful and explicit option parsing library                
+node-decamelize                       1.2.0-1                              convert a camelized string into a lowercased one with a custom separa
+node-decompress-response              3.3.0-1                              Decompress a HTTP response if needed                                 
+node-deep-extend                      0.4.1-2                              Recursive object extending                                           
+node-defaults                         1.0.3-1                              merge single level defaults over a config object                     
+node-delayed-stream                   0.0.5-1                              Buffer stream events for later handling - module for Node.js         
+node-delegates                        1.0.0-1                              delegate methods and accessors to another property                   
+node-detect-indent                    5.0.0-1                              Detect the indentation of code                                       
+node-detect-newline                   2.1.0-1                              Detect the dominant newline character of a string                    
+node-duplexer3                        0.1.4-4                              Like duplexer but using streams3                                     
+node-duplexify                        3.6.1-1                              Turn a writable and readable stream into a streams2 duplex stream    
+node-ecc-jsbn                         0.1.1-1                              ECC JS code based on JSBN                                            
+node-editor                           1.0.0-1                              Launch $EDITOR in your program                                       
+node-encoding                         0.1.12-2                             Convert encodings, uses iconv by default and fallbacks to iconv-lite 
+node-end-of-stream                    1.4.1-1                              Invoke a callback when a stream has completed or failed              
+node-errno                            0.1.4-1                              libuv errno details exposed - Node.js module                         
+node-escape-string-regexp             1.0.5-1                              Escape RegExp special characters in Node.js                          
+node-execa                            0.10.0+dfsg-1                        better `child_process`                                               
+node-extend                           3.0.2-1                              port of jQuery.extend for Node.js                                    
+node-extsprintf                       1.3.0-1                              extended POSIX-style sprintf                                         
+node-find-up                          2.1.0-1                              find a file by walking up parent directories                         
+node-flush-write-stream               1.0.3-1                              Write stream constructor                                             
+node-forever-agent                    0.6.1-1                              HTTP agent supporting keep-alive requests - module for Node.js       
+node-form-data                        2.3.2-2                              Create multipart/form-data streams module for Node.js                
+node-from2                            2.3.0-1                              wrapper for ReadableStream                                           
+node-fs-vacuum                        1.2.10-2                             Remove empty branches in a directory tree                            
+node-fs-write-stream-atomic           1.0.10-4                             Like fs.createWriteStream(...), but atomic                           
+node-fs.realpath                      1.0.0-1                              Use node's fs.realpath                                               
+node-gauge                            2.7.4-1                              terminal based horizontal progress bar                               
+node-get-caller-file                  1.0.2-1                              inspects the v8 stack trace                                          
+node-get-stream                       3.0.0-1                              Get a stream as a string, buffer, or array                           
+node-getpass                          0.1.7-1                              get a password from terminal                                         
+node-glob                             7.1.3-2                              glob functionality for Node.js                                       
+node-got                              7.1.0-1                              Simplified HTTP requests                                             
+node-graceful-fs                      4.1.11-1                             drop-in replacement improving the Node.js fs module                  
+node-gyp                              3.8.0-6                              Native addon build tool for Node.js                                  
+node-har-schema                       2.0.0-1                              JSON Schema for HTTP Archive (HAR)                                   
+node-har-validator                    5.1.0-1                              Extremely fast HTTP Archive (HAR) validator using JSON Schema        
+node-has-flag                         2.0.0-1                              check if argv has a specific flag                                    
+node-has-symbol-support-x             1.4.1+dfsg-1                         Tests if ES6 Symbol is supported                                     
+node-has-to-string-tag-x              1.4.1+dfsg-1                         Tests if ES6 @@toStringTag is supported                              
+node-has-unicode                      2.0.1-2                              Try to guess if your terminal supports unicode                       
+node-hosted-git-info                  2.7.1-1                              Provides metadata from Github, Bitbucket and Gitlab                  
+node-http-signature                   1.2.0-1                              Reference implementation of Joyent's HTTP Signature scheme           
+node-iconv-lite                       0.4.13-2                             Pure JS character encoding conversion                                
+node-iferr                            1.0.2-1                              Higher-order functions for easier error handling                     
+node-import-lazy                      3.0.0.REALLY.2.1.0-1                 import a module lazily                                               
+node-imurmurhash                      0.1.4-1                              incremental implementation of MurmurHash3 hashing algorithm          
+node-inflight                         1.0.6-1                              add callbacks to requests in flight to avoid async duplication       
+node-inherits                         2.0.3-1                              Exposes inherits function from Node.js environment                   
+node-ini                              1.3.5-1+deb10u1                      ini format parser and serializer for Node.js                         
+node-invert-kv                        1.0.0-1                              invert the key/value of an object                                    
+node-is-builtin-module                2.0.0-1                              Check if string matches name of a Node.js builtin module             
+node-is-npm                           1.0.0-1                              Checks if your code is running as an npm script                      
+node-is-object                        1.0.1-1                              Checks whether a value is an object                                  
+node-is-plain-obj                     1.1.0-1                              Check if a value is a plain object                                   
+node-is-retry-allowed                 1.1.0-1                              Is retry allowed for Error?                                          
+node-is-stream                        1.1.0-1                              Check if something is a Node.js stream                               
+node-is-typedarray                    1.0.0-2                              JavaScript library checking if object is TypedArray                  
+node-isarray                          2.0.4-1                              JavaScript Array#isArray for older browsers                          
+node-isexe                            2.0.0-4                              minimal module to check if a file is executable                      
+node-isstream                         0.1.2+dfsg-1                         Determine if an object is a Stream                                   
+node-isurl                            1.0.0-1                              Checks whether a value is a WHATWG URL                               
+node-jsbn                             1.1.0-1                              fast, portable implementation of large-number math in pure JS        
+node-json-parse-better-errors         1.0.2-2                              JSON.parse() with context information on error                       
+node-json-schema                      0.2.3-1                              JSON Schema validation and specifications                            
+node-json-stable-stringify            1.0.1-1                              deterministic JSON.stringify()                                       
+node-json-stringify-safe              5.0.1-1                              JSON.stringify with circular references module for Node.js           
+node-jsonify                          0.0.0-1                              JSON without touching any globals                                    
+node-jsonparse                        1.3.1-6                              Pure javascript JSON streaming parser for node.js                    
+node-jsonstream                       1.3.2-1                              streaming JSON.parse and stringify                                   
+node-jsprim                           1.4.0-1                              utilities for primitive JavaScript types                             
+node-latest-version                   3.1.0-1                              Get the latest version of an npm package                             
+node-lazy-property                    1.0.0-3                              Adds a lazily initialized property to the object                     
+node-lcid                             1.0.0-1                              map standard locale identifies and lcid                              
+node-libnpx                           10.2.0+repack-1                      support library for npx                                              
+node-locate-path                      2.0.0-1                              Get the first path that exists on disk of multiple paths             
+node-lockfile                         1.0.4-1                              Asynchronous file lock module for Node.js                            
+node-lowercase-keys                   1.0.0-2                              Lowercase the keys of an object                                      
+node-lru-cache                        5.1.1-4                              least-recently-used cache object for Node.js                         
+node-mem                              1.1.0-1                              Memoize functions                                                    
+node-mime-types                       2.1.21-1                             ultimate JavaScript content-type utility - Node.js module            
+node-mimic-fn                         1.1.0-1                              Make a function mimic another one                                    
+node-mimic-response                   1.0.0-1                              Mimic a Node.js HTTP response stream                                 
+node-minimatch                        3.0.4-3                              Convert glob expressions into RegExp objects for Node.js             
+node-minimist                         1.2.0-1+deb10u1                      Argument options parsing for Node.js                                 
+node-mississippi                      3.0.0-1                              collection of useful streams                                         
+node-mkdirp                           0.5.1-1                              Recursively create directories - Node.js module                      
+node-move-concurrently                1.0.1-2                              Move files and directories concurrently                              
+node-mute-stream                      0.0.8-1                              Pass-through stream that can be muted module for Node.js             
+node-node-uuid                        3.3.2-2                              transitional package                                                 
+node-nopt                             3.0.6-3                              Command-line option parser for Node.js                               
+node-normalize-package-data           2.4.0-1                              Normalizes package metadata - Node.js module                         
+node-normalize.css                    8.0.1-3                              Modern alternative to CSS resets                                     
+node-npm-package-arg                  6.0.0-2                              Parse the things that can be arguments to npm install                
+node-npm-run-path                     2.0.2-2                              Get your PATH prepended with locally installed binaries              
+node-npmlog                           4.1.2-1                              Logger with custom levels and colored output for Node.js             
+node-oauth-sign                       0.9.0-1                              OAuth 1 signing module for Node.js                                   
+node-object-assign                    4.1.1-2                              ES2015 Object.assign() ponyfill                                      
+node-once                             1.4.0-3                              Run a function only once with this module for Node.js                
+node-opener                           1.4.3-1                              Opens stuff, like webpages and files and executables                 
+node-os-locale                        2.0.0-1                              get the system locale                                                
+node-osenv                            0.1.5-1                              Environment settings lookup module for Node.js                       
+node-p-cancelable                     0.3.0-1                              Create a promise that can be canceled                                
+node-p-finally                        1.0.0-2                              Invoked when the promise is settled regardless of outcome            
+node-p-limit                          1.1.0-1                              run multiple promise-returning & async functions                     
+node-p-locate                         2.0.0-1                              async version of Array#find                                          
+node-p-timeout                        1.2.0-1                              Timeout a promise after a specified amount of time                   
+node-package-json                     4.0.1-1                              Get metadata of a package from the npm registry                      
+node-parallel-transform               1.1.0-2                              Runs transforms in parallel                                          
+node-path-exists                      3.0.0-1                              Check if a path exists                                               
+node-path-is-absolute                 1.0.0-1                              Node.js 0.12 path.isAbsolute() ponyfill                              
+node-path-is-inside                   1.0.2-1                              Tests whether one path is inside another path                        
+node-performance-now                  2.1.0+debian-1                       Implements performance.now (based on process.hrtime)                 
+node-prepend-http                     2.0.0-1                              Prepend `http://` to humanized URLs like todomvc.com and localhost   
+node-process-nextick-args             2.0.0-1                              process.nextTick but always with args                                
+node-promise-inflight                 1.0.1-1                              one promise for multiple requests in flight to avoid async duplicatio
+node-promzard                         0.3.0-1                              Promzard provides a prompting json wizard                            
+node-proto-list                       1.2.4-1                              utility for managing a prototype chain                               
+node-prr                              1.0.1-1                              Object.defineProperty() with common defaults - Node.js module        
+node-pump                             3.0.0-1                              small node module that pipes streams together                        
+node-pumpify                          1.5.1-1                              combine streams into a single duplex stream by pump and duplexify    
+node-punycode                         2.1.1-2                              Nodejs robust Punycode converter fully RFC compliant                 
+node-qs                               6.5.2-1                              Parse, stringify query strings for Node.js                           
+node-qw                               1.0.1-1                              Quoted word literals                                                 
+node-rc                               1.1.6-2                              find, load, flatten json or ini application configuration            
+node-read                             1.0.7-1                              Read user input from stdin module for Node.js                        
+node-read-package-json                2.0.13-1                             Read package.json for npm module for Node.js                         
+node-readable-stream                  2.3.6-1                              stream compatibility library for Node.js and browser                 
+node-registry-auth-token              3.3.1-1                              Get the auth token set for an npm registry (if any)                  
+node-registry-url                     3.1.0-1                              Get the set npm registry URL                                         
+node-request                          2.88.1-2                             simplified HTTP request client module for Node.js                    
+node-require-directory                2.1.1-1                              require all files in a directory                                     
+node-require-main-filename            1.0.1-1                              shim for require.main.filename() that works in as many environments a
+node-resolve-from                     4.0.0-1                              Resolve the path of a module from a given path                       
+node-retry                            0.10.1-1                             Retry strategies for failed operations module for Node.js            
+node-rimraf                           2.6.2-1                              Deep deletion (like rm -rf) module for Node.js                       
+node-run-queue                        1.0.3-1                              promise based dynamic priority queue runner                          
+node-safe-buffer                      5.1.2-1                              Safer Node.js Buffer API                                             
+node-semver                           5.5.1-1                              Semantic Versioning for Node.js                                      
+node-semver-diff                      2.1.0-2                              get the diff type of two semver versions                             
+node-set-blocking                     2.0.0-1                              set blocking stdio and stderr                                        
+node-sha                              2.0.1-1                              Check and get file or stream hashes - module for Node.js             
+node-shebang-command                  1.2.0-1                              Get the command from a shebang                                       
+node-shebang-regex                    2.0.0-1                              Regular expression for matching a shebang line                       
+node-signal-exit                      3.0.2-1                              Fire an event no matter how a process exits                          
+node-slash                            1.0.0-1                              convert Windows backslash paths to slash paths                       
+node-slide                            1.1.6-2                              Simple chain and asyncMap flow control module for Node.js            
+node-sorted-object                    2.0.1-1                              Returns a copy of an object with its keys sorted                     
+node-spdx-correct                     1.0.2-1                              correct invalid SPDX identifiers                                     
+node-spdx-expression-parse            1.0.4-1                              parse SPDX license expressions                                       
+node-spdx-license-ids                 1.2.2-1                              List of SPDX license identifiers                                     
+node-sshpk                            1.13.1+dfsg-2                        library for finding and using SSH public keys                        
+node-ssri                             5.2.4-2                              Utility for parsing, serializing, generating and verifying  ssri meta
+node-stream-each                      1.2.2-2                              Iterate all the data in a stream                                     
+node-stream-iterate                   1.2.0-4                              Iterate through the values in a stream                               
+node-stream-shift                     1.0.0-1                              returns the next buffer/object in a stream's readable queue          
+node-string-decoder                   1.2.0-1                              string_decoder module from Node core for browsers                    
+node-string-width                     2.1.1-1                              Get the visual width of a string                                     
+node-strip-ansi                       4.0.0-1                              strip ANSI escape codes                                              
+node-strip-eof                        1.0.0-2                              strip CR and LF characters from a string/buffer                      
+node-strip-json-comments              2.0.1-2                              Node.js module to strip comments from JSON                           
+node-supports-color                   4.4.0-2                              Detect whether a terminal supports color in Node.js                  
+node-tar                              4.4.6+ds1-3                          read and write portable tar archives module for Node.js              
+node-term-size                        1.2.0+dfsg-2                         Reliably get the terminal window size                                
+node-text-table                       0.2.0-2                              borderless text tables with alignment                                
+node-through                          2.3.8-1                              simplified stream construction                                       
+node-through2                         2.0.5-2                              Make a stream.Transform out of a function - Node.js module           
+node-timed-out                        4.0.1-4                              Emit `ETIMEDOUT` or `ESOCKETTIMEDOUT` when ClientRequest is hanged   
+node-tough-cookie                     2.3.4+dfsg-1                         RFC6265 Cookies and Cookie Jar for node.js                           
+node-tunnel-agent                     0.6.1-1                              HTTP proxy tunneling agent module for Node.js                        
+node-tweetnacl                        0.14.5+dfsg-3                        Port of TweetNaCl cryptographic library to JavaScript                
+node-typedarray                       0.0.6-1                              TypedArray polyfill for old browsers                                 
+node-uid-number                       0.0.6-1                              Convert a username/group name to a uid/gid number                    
+node-unique-filename                  1.1.0+ds-2                           unique filename for use in temporary directories or caches           
+node-unpipe                           1.0.0-1                              Unpipe a stream from all destinations                                
+node-url-parse-lax                    1.0.0-1                              url.parse() with support for protocol-less URLs & IPs                
+node-url-to-options                   1.0.1-1                              Convert a WHATWG URL to an http(s).request options object            
+node-util-deprecate                   1.0.2-1                              Node.js's `util.deprecate()` function with browser support           
+node-uuid                             3.3.2-2                              simple and fast RFC4122 UUID generation - Node.js module             
+node-validate-npm-package-license     3.0.1-1                              Tells if a string is a valid npm package license string              
+node-validate-npm-package-name        3.0.0-1                              Checks if a string is a valid npm package name                       
+node-verror                           1.10.0-1                             rich JavaScript errors                                               
+node-wcwidth.js                       1.0.0-1                              wcwidth.js is a javascript porting of C's wcwidth()                  
+node-which                            1.3.0-2                              Cross-platform 'which' module for Node.js                            
+node-which-module                     2.0.0-1                              Find the module object for something that was require()d             
+node-wide-align                       1.1.0-1                              Wide-character aware text alignment function                         
+node-widest-line                      1.2.2-1                              Get the visual width of the widest line in a string -                
+node-wrap-ansi                        4.0.0-1                              Wordwrap a string with ANSI escape codes                             
+node-wrappy                           1.0.2-1                              Callback wrapping utility                                            
+node-write-file-atomic                2.3.0-1                              Write files in an atomic fashion w/configurable ownership            
+node-xdg-basedir                      3.0.0-1                              Get XDG Base Directory paths                                         
+node-xtend                            4.0.1-2                              extend like a boss                                                   
+node-y18n                             3.2.1-2+deb10u1                      bare-bones internationalization library used by yargs                
+node-yallist                          3.0.3-1                              Double linked list implementation for Node.js                        
+node-yargs                            10.0.3-2                             yargs the modern, pirate-themed, successor to optimist.              
+node-yargs-parser                     11.1.1-1+deb10u1                     mighty option parser used by yargs                                   
+nodejs-doc                            10.24.0~dfsg-1~deb10u1               API documentation for Node.js, the javascript platform               
+nodejs:armhf                          10.24.0~dfsg-1~deb10u1               evented I/O for V8 javascript - runtime executable                   
+nodered:armhf                         1.3.4-1                              Node-RED - low-code programming for event-driven applications        
+npm                                   5.8.0+ds6-4+deb10u2                  package manager for Node.js                                          
+nuscratch:armhf                       20210507                             Scratch running on the Stack (Cog) VM                                
+openjdk-11-jdk-headless:armhf         11.0.11+9-1~deb10u1                  OpenJDK Development Kit (JDK) (headless)                             
+openjdk-11-jdk:armhf                  11.0.11+9-1~deb10u1                  OpenJDK Development Kit (JDK)                                        
+openjdk-11-jre-headless:armhf         11.0.11+9-1~deb10u1                  OpenJDK Java runtime, using Hotspot JIT (headless)                   
+openjdk-11-jre:armhf                  11.0.11+9-1~deb10u1                  OpenJDK Java runtime, using Hotspot JIT                              
+openjfx-source                        11.0.2+1-1                           JavaFX/OpenJFX - Rich client application platform for Java (sources) 
+openjfx:armhf                         11.0.2+1-1                           JavaFX/OpenJFX - Rich client application platform for Java           
+pyflakes                              2.0.0-1                              passive checker of Python 2 programs                                 
+pyflakes3                             2.0.0-1                              passive checker of Python 3 programs                                 
+python-games                          0.1                                  Example games written in Python                                      
+python-matplotlib-data                3.0.2-2                              Python based plotting system (data package)                          
+python-minecraftpi                    0.1.1-5                              Python API for Minecraft Pi                                          
+python-picraft                        1.0                                  Alternative API for controlling Minecraft from Python.               
+python-pyflakes                       2.0.0-1                              passive checker of Python 2 programs - Python modules                
+python-sense-emu                      1.1.2                                Client library for the Raspberry Pi Sense HAT emulator.              
+python-sense-emu-doc                  1.1.2                                Documentation for the Raspberry Pi Sense HAT emulator.               
+python3-appdirs                       1.4.3-1                              determining appropriate platform-specific directories (Python 3)     
+python3-cycler                        0.10.0-1                             composable kwarg iterator (Python 3)                                 
+python3-dateutil                      2.7.3-3                              powerful extensions to the standard Python 3 datetime module         
+python3-decorator                     4.3.0-1.1                            simplify usage of Python decorators by programmers                   
+python3-gi-cairo:armhf                3.30.4-1                             Python 3 Cairo bindings for the GObject library                      
+python3-guizero                       0.6.0+dfsg1-1                        module to allow quick and easy GUI creation (Python 3)               
+python3-ipykernel                     4.9.0-1                              IPython kernel for Jupyter (Python 3)                                
+python3-ipython                       5.8.0-1                              Enhanced interactive Python shell (Python 3 version)                 
+python3-ipython-genutils              0.2.0-1                              IPython vestigial utilities for Python 3                             
+python3-jupyter-client                5.2.3-1                              Jupyter protocol client APIs (Python 3)                              
+python3-jupyter-core                  4.4.0-2                              Core common functionality of Jupyter projects for Python 3           
+python3-kiwisolver:armhf              1.0.1-2+b1                           fast implementation of the Cassowary constraint solver - Python 3.X  
+python3-matplotlib:armhf              3.0.2-2                              Python based plotting system in a style similar to Matlab (Python 3) 
+python3-minecraftpi                   0.22-1                               Raspberry PI Minecraft API python client library                     
+python3-nudatus                       0.0.4-1                              module to remove comments from Python 3 scripts                      
+python3-pickleshare                   0.7.5-1                              File system based database that uses Python pickles for Python 3     
+python3-picraft                       1.0                                  Alternative API for controlling Minecraft from Python.               
+python3-pil.imagetk:armhf             5.4.1-2+deb10u2                      Python Imaging Library - ImageTk Module (Python3)                    
+python3-prompt-toolkit                1.0.15-1                             library for building interactive command lines (Python 3)            
+python3-pycodestyle                   2.4.0-2                              Python style guide checker (formerly called pep8) - Python 3.x       
+python3-pyflakes                      2.0.0-1                              passive checker of Python 3 programs - Python modules                
+python3-pyparsing                     2.2.0+dfsg1-2                        alternative to creating and executing simple grammars - Python 3.x   
+python3-pyqt5:armhf                   5.11.3+dfsg-1+rpi1+b3                Python 3 bindings for Qt5                                            
+python3-pyqt5.qsci:armhf              2.10.4+dfsg-2.1+rpi1                 Python 3 bindings for QScintilla 2 with Qt 5                         
+python3-pyqt5.qtchart:armhf           5.11.3+dfsg-1                        Python 3 bindings for Qt5's Charts module                            
+python3-pyqt5.qtserialport:armhf      5.11.3+dfsg-1+rpi1+b3                Python 3 bindings for QtSerialPort module                            
+python3-pyqt5.qtsvg:armhf             5.11.3+dfsg-1+rpi1+b3                Python 3 bindings for Qt5's SVG module                               
+python3-qtconsole                     4.3.1-1                              Jupyter - Qt console (Python 3)                                      
+python3-semver                        2.0.1-3                              helps to compare semantic versioning - Python 3.x                    
+python3-sense-emu                     1.1.2                                Client library for the Raspberry Pi Sense HAT emulator.              
+python3-simplegeneric                 0.8.1-2                              simple generic functions for Python3                                 
+python3-sip:armhf                     4.19.14+dfsg-2                       Python 3/C++ bindings generator runtime library                      
+python3-tornado:armhf                 5.1.1-4                              scalable, non-blocking web server and tools - Python 3 package       
+python3-traitlets                     4.3.2-1                              Lightweight Traits-like package for Python 3                         
+python3-uflash                        1.2.4+dfsg-1                         module and utility for flashing the BBC micro:bit                    
+python3-uno:armhf                     1:6.1.5-3+rpi1+deb10u7+rpt1          Python-UNO bridge                                                    
+python3-wcwidth                       0.1.7+dfsg1-3                        determine printable width of a string on a terminal (Python 3)       
+python3-zmq:armhf                     17.1.2-2+deb10u1                     Python3 bindings for 0MQ library                                     
+qjackctl:armhf                        0.5.0-1                              User interface for controlling the JACK sound server                 
+rake                                  12.3.1-3+deb10u1                     ruby make-like utility                                               
+realvnc-vnc-viewer:armhf              6.20.529.42646                       VNC® Viewer                                                          
+rtimucli:armhf                        0.1                                  Simple command-line utility to read IMU                              
+ruby-activesupport                    2:5.2.2.1+dfsg-1+deb10u2             Support and utility classes used by the Rails 4.1 framework          
+ruby-afm                              0.2.2-1                              Ruby library to read Adobe Font Metrics files                        
+ruby-ascii85                          1.0.3-1                              Ruby library to encode/decode the Ascii85 format                     
+ruby-atomic:armhf                     1.1.16-2+b3                          atomic reference implementation for JRuby, Rubinius, and MRI         
+ruby-coderay                          1.1.2-2                              Ruby library for syntax highlighting                                 
+ruby-concurrent                       1.0.5-3                              modern concurrency tools for Ruby                                    
+ruby-did-you-mean                     1.2.1-1                              smart error messages for Ruby > 2.3                                  
+ruby-ffi:armhf                        1.9.10debian-1+b4                    load dynamic libraries, bind functions from within ruby code         
+ruby-hamster                          3.0.0-2                              Efficient, immutable, thread-safe collection classes for Ruby        
+ruby-hashery                          2.1.2-1                              facets-bread collection of Hash-like classes                         
+ruby-i18n                             1.5.3-1+deb10u1                      I18n and localization solution for Ruby                              
+ruby-kramdown                         1.17.0-1+deb10u2                     Fast, pure-Ruby Markdown-superset converter                          
+ruby-memoist                          0.16.0-2                             Ruby library providing method memoization                            
+ruby-minitest                         5.11.3-1                             Ruby test tools supporting TDD, BDD, mocking, and benchmarking       
+ruby-multi-json                       1.12.1-1                             Ruby library to provide easy switching between different JSON backend
+ruby-net-telnet                       0.1.1-2                              telnet client library                                                
+ruby-oj:armhf                         3.7.6-1                              fast JSON parser and serializer for Ruby                             
+ruby-pdf-core                         0.8.1-1                              Ruby library to render PDF documents                                 
+ruby-pdf-reader                       2.1.0-1                              Ruby library for accessing the content of PDF files                  
+ruby-power-assert                     1.1.1-1                              library showing values of variables and method calls in an expression
+ruby-prawn                            2.2.0+dfsg-1                         fast, nimble PDF generation library for Ruby                         
+ruby-prawn-table                      0.2.2-1                              table support for the Prawn PDF generation library                   
+ruby-rc4                              0.1.5-3                              Ruby library implementing the RC4 algorithm                          
+ruby-rouge                            3.3.0-1                              pure-Ruby syntax highlighter compatible with pygments                
+ruby-rugged:armhf                     0.27.4+ds-1                          Ruby binding to the libgit2 library                                  
+ruby-stringex                         2.8.4-1                              Some useful extensions to Ruby's String class                        
+ruby-test-unit                        3.2.8-1                              unit testing framework for Ruby                                      
+ruby-thread-safe                      0.3.6-1                              thread-safe collections and utilities for Ruby                       
+ruby-ttfunk                           1.5.1-1                              Ruby library to parse TrueType font metrics                          
+ruby-tzinfo                           1.2.5-1                              Daylight-savings aware timezone library                              
+ruby-wavefile                         0.6.0-2                              Pure Ruby library for reading and writing Wave sound files (*.wav)   
+ruby-xmlrpc                           0.3.0-2                              XMLRPC library for Ruby                                              
+ruby:armhf                            1:2.5.1+b1                           Interpreter of object-oriented scripting language Ruby (default versi
+ruby2.5:armhf                         2.5.5-3+deb10u3                      Interpreter of object-oriented scripting language Ruby               
+rubygems-integration                  1.11+deb10u1                         integration of Debian Ruby packages with Rubygems                    
+sc3-plugins-server:armhf              3.9.1~repack-3+b1                    Compiled scsynth UGen plugins for SuperCollider                      
+scratch                               1.4.0.6~dfsg1-6                      easy to use programming environment for ages 8 and up                
+scratch3:armhf                        1.0.6                                Electron build of Scratch 3 offline                                  
+sense-emu-tools                       1.1.2                                Emulator for the Raspberry Pi Sense HAT.                             
+smartsim:armhf                        1.4                                  Digital logic circuit design and simulation package.                 
+sonic-pi-samples                      3.1.0~repack~test2-1                 Audio samples for Sonic Pi                                           
+sonic-pi-server                       3.1.0~repack~test2-1                 Backend server for Sonic Pi                                          
+sonic-pi:armhf                        3.1.0~repack~test2-1                 Live Coding for Everyone                                             
+squeak-vm:armhf                       1:4.10.2.2614-8                      virtual machine for Smalltalk                                        
+supercollider-server:armhf            1:3.10.0+repack-1+rpi1               real time audio synthesis server                                     
+ttf-bitstream-vera                    1.10-8                               The Bitstream Vera family of free TrueType fonts                     
+uno-libs3:armhf                       6.1.5-3+rpi1+deb10u7+rpt1            LibreOffice UNO runtime environment -- public shared libraries       
+ure:armhf                             6.1.5-3+rpi1+deb10u7+rpt1            LibreOffice UNO runtime environment                                  
+wolfram-engine:armhf                  12.1.1+2020081901                    Mathematica® and the Wolfram Language                                
+wolframscript:armhf                   1.4.0+2020081702                     WolframScript (for the Command Line)                                 
+x11proto-core-dev                     2018.4-4                             transitional dummy package                                           
+x11proto-dev                          2018.4-4                             X11 extension protocols and auxiliary headers                        
+xfonts-100dpi                         1:1.0.4+nmu1                         100 dpi fonts for X                                                  
+xfonts-encodings                      1:1.0.4-2                            Encodings for X.Org fonts                                            
+xfonts-utils:armhf                    1:7.7+6                              X Window System font utility programs                                
+xorg-sgml-doctools                    1:1.11-1                             Common tools for building X.Org SGML documentation                   
+xtrans-dev                            1.3.5-1                              X transport library (development files)                              
+zip:armhf                             3.0-11                               Archiver for .zip files                                              
